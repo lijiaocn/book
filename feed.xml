@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[抖音运营手册（运营实践笔记）]]></title>
-        <description><![CDATA[抖音运营知识汇总，短视频制作技巧，运营实践]]></description>
-        <link>https://www.lijiaocn.com/oper/</link>
+        <title><![CDATA[经典书籍深度阅读读书笔记]]></title>
+        <description><![CDATA[投资理财等各个门类的经典书籍和系列文章的深度阅读笔记，精华内容摘抄留存，个人阅读感悟。]]></description>
+        <link>https://www.lijiaocn.com/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 Nov 2019 16:05:09 GMT</lastBuildDate>
-        <atom:link href="https://www.lijiaocn.com/oper/feed.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Nov 2019 16:11:39 GMT</lastBuildDate>
+        <atom:link href="https://www.lijiaocn.com/book/feed.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[李佶澳]]></author>
         <item>
             <title><![CDATA[小鸟笔记—读书笔记-精彩内容摘录与感悟]]></title>
-            <description><![CDATA[个人的读书笔记，查看所有手册列表：【小鸟笔记】。]]></description>
-            <link>https://www.lijiaocn.com/oper/</link>
-            <guid isPermaLink="true">https://www.lijiaocn.com/oper/</guid>
+            <description><![CDATA[个人的读书笔记，查看所有手册列表：【小鸟笔记】]]></description>
+            <link>https://www.lijiaocn.com/book/</link>
+            <guid isPermaLink="true">https://www.lijiaocn.com/book/</guid>
             <dc:creator><![CDATA[李佶澳]]></dc:creator>
         </item>
     </channel>
