@@ -1,7 +1,29 @@
 <!-- toc -->
 # 《李录：现代化十六讲》阅读笔记
 
-李录：喜马拉雅资本董事长、创始人。
+李录：喜马拉雅资本董事长、创始人，查理芒格合伙人。
+
+十六篇原文链接：
+
+* [李录谈现代化系列（一）](https://mp.weixin.qq.com/s/iNjZzOp5ajzgmFLpFCsi3Q)
+* [李录谈现代化系列（二）](https://mp.weixin.qq.com/s/C1sXh19mnrSvismyvHehSg)
+* [李录谈现代化系列（三）](https://mp.weixin.qq.com/s/B8V5feV3Hf5Bo-tg2jQvUA)
+* [李录谈现代化系列（四）](https://mp.weixin.qq.com/s/-aB7uMOFjMeQSM1BflNlcw)
+* [李录谈现代化系列（五）](https://mp.weixin.qq.com/s/jyjwTBpfkSjwIVKYpamTww)
+* [李录谈现代化系列（六）](https://mp.weixin.qq.com/s/uOoL6WPMkIkzd5ZVoe90dQ)
+* [李录谈现代化系列（七）](https://mp.weixin.qq.com/s/eUXPhFBlj8oxx4BEGapUhQ)
+* [李录谈现代化系列（八）](https://mp.weixin.qq.com/s/c8Gkkp8Dqiby9FN-hhPUgg)
+* [李录谈现代化系列（九）](https://mp.weixin.qq.com/s/xpMAy3mhm6YXF1QzuJrbrA)
+* [李录谈现代化系列（十）](https://mp.weixin.qq.com/s/xyUP_jb7sPuT15KFWJaipQ)
+* [李录谈现代化系列（十一）](https://mp.weixin.qq.com/s/-2kxr-Vz2BsERlvGfyYJog)
+* [李录谈现代化系列（十二）](https://mp.weixin.qq.com/s/0nWapLldT4KWjotbCEdDOw)
+* [李录谈现代化系列（十三）](https://mp.weixin.qq.com/s/YqrPMUSsapTHFNmap9Wnbw)
+* [李录谈现代化系列（十四）](https://mp.weixin.qq.com/s/tYZcwAy0T4pH2GfhISgiQw)
+* [李录谈现代化系列（十五）](https://mp.weixin.qq.com/s/D_rpIR7F1DlrSyvp_IZTLg)
+* [李录谈现代化系列（十六）](https://mp.weixin.qq.com/s/KKAFytWkp7n5T2ldp3jnGw)
+* [《李录谈现代化》评论精编——叙龙评现代化的本质和铁律](https://mp.weixin.qq.com/s/1p46c1bCx6nCjo5rHNxR0g)
+
+以下为个人阅读摘要，仅供参考。
 
 ## 第一讲
 
