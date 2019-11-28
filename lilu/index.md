@@ -2,7 +2,7 @@
 
 李录：喜马拉雅资本董事长、创始人，查理芒格合伙人。
 
-十六篇原文链接：
+## 十六篇原文与评论链接
 
 * [李录谈现代化系列（一）](https://mp.weixin.qq.com/s/iNjZzOp5ajzgmFLpFCsi3Q)
 * [李录谈现代化系列（二）](https://mp.weixin.qq.com/s/C1sXh19mnrSvismyvHehSg)
@@ -22,7 +22,7 @@
 * [李录谈现代化系列（十六）](https://mp.weixin.qq.com/s/KKAFytWkp7n5T2ldp3jnGw)
 * [《李录谈现代化》评论精编——叙龙评现代化的本质和铁律](https://mp.weixin.qq.com/s/1p46c1bCx6nCjo5rHNxR0g)
 
-以下为个人阅读摘要，仅供参考。
+## 个人阅读摘要，仅供参考
 
 ## 第一讲
 
