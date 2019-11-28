@@ -4,7 +4,7 @@
         <description><![CDATA[投资理财等各个门类的经典书籍和系列文章的深度阅读笔记，精华内容摘抄留存，个人阅读感悟。]]></description>
         <link>https://www.lijiaocn.com/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 Nov 2019 11:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2019 12:00:13 GMT</lastBuildDate>
         <atom:link href="https://www.lijiaocn.com/book/feed.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[李佶澳]]></author>
         <item>
@@ -19,6 +19,13 @@
             <description><![CDATA[李录：喜马拉雅资本董事长、创始人，查理芒格合伙人。]]></description>
             <link>https://www.lijiaocn.com/book/lilu/index.html</link>
             <guid isPermaLink="true">https://www.lijiaocn.com/book/lilu/index.html</guid>
+            <dc:creator><![CDATA[李佶澳]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[高善文山西证券30周年演讲]]></title>
+            <description><![CDATA[时间：2018年08月01日]]></description>
+            <link>https://www.lijiaocn.com/book/gaoshanwen/shanxi30.html</link>
+            <guid isPermaLink="true">https://www.lijiaocn.com/book/gaoshanwen/shanxi30.html</guid>
             <dc:creator><![CDATA[李佶澳]]></dc:creator>
         </item>
     </channel>
