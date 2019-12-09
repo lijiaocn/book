@@ -6,9 +6,9 @@
 
 ## 小鸟笔记
 
-返回 [【小鸟笔记】][1] 手册列表。
+返回<a href="../note/">【小鸟笔记】</a>手册列表。
 
-微信联系   mail: lijiaocn@foxmail.com**
+**微信联系   mail: lijiaocn@foxmail.com**
 
 <div style="display:flex;flex-direction:row">
 <img height="250px" alt="关注微信公众号" src="https://www.lijiaocn.com/img/class.jpg"/>
@@ -17,7 +17,6 @@
 
 ## 参考
 
-1. [李佶澳的博客][2]
+1. [李佶澳的博客][1]
 
-[1]:  https://www.lijiaocn.com/note/ "小鸟笔记"
-[2]:  https://www.lijiaocn.com/ "李佶澳的博客"
+[1]:  https://www.lijiaocn.com/ "李佶澳的博客"
