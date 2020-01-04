@@ -16,5 +16,5 @@
 
 ## 巴菲特
 
-[](./bafeite/letters.md)
+* [2018-巴菲特股东信](./bafeite/letters.md)
 
