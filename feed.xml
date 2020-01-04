@@ -4,7 +4,7 @@
         <description><![CDATA[投资理财等各个门类的经典书籍和系列文章的深度阅读笔记，精华内容摘抄留存，个人阅读感悟。]]></description>
         <link>https://www.lijiaocn.com/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jan 2020 18:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2020 06:58:34 GMT</lastBuildDate>
         <atom:link href="https://www.lijiaocn.com/book/feed.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[李佶澳]]></author>
         <item>
@@ -26,6 +26,13 @@
             <description><![CDATA[时间：2018年08月01日]]></description>
             <link>https://www.lijiaocn.com/book/gaoshanwen/shanxi30.html</link>
             <guid isPermaLink="true">https://www.lijiaocn.com/book/gaoshanwen/shanxi30.html</guid>
+            <dc:creator><![CDATA[李佶澳]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[巴菲特致股东信阅读摘要]]></title>
+            <description><![CDATA[沃伦E.巴菲特,劳伦斯A.坎宁安. 巴菲特致股东的信：投资者和公司高管教程（原书第4版） (华章经典·金融投资) (Chinese Edition) (Kindle Locations 109-113). Kindle Edition.]]></description>
+            <link>https://www.lijiaocn.com/book/bafeite/letters.html</link>
+            <guid isPermaLink="true">https://www.lijiaocn.com/book/bafeite/letters.html</guid>
             <dc:creator><![CDATA[李佶澳]]></dc:creator>
         </item>
     </channel>
