@@ -1,5 +1,7 @@
 # Summary
 
+[读书笔记](./README.md)
+
 ## 李录
 
 * [2014-07-现代化十六讲](./lilu/index.md)
